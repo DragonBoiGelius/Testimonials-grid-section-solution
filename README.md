@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/solutions/new)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-FgClPrO3Zo)
 - Live Site URL: [Live site URL](https://testimonials-grid-section-solution-coral.vercel.app/)
 
 ### Built with
